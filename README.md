@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/180x180?text=BanaFit+AI" alt="BanaFit Logo" width="180" height="180">
+  <img src="https://www.banacode.com/assets/banafit_logo-CqRoCb6x.png" alt="BanaFit Logo" width="180" height="180">
 
   # BanaFit🍌 - Documentación Oficial
   
